@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+body {
+    background-color: paleturquoise;
+}
+
+.input {
+    text-align: center;
+}
+
+.button {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#input_text {
+    display: block;
+    width: 80%;
+    height: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
