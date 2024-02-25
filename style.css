@@ -5,12 +5,17 @@ body {
     padding: 2%;
 }
 
-.setting {
+.header {
+    display: block;
     background-color: #8d939a;
     color: #121416;
     padding: 1em 1em 1em 1em;
+    margin: 2% 2% 2% 0;
     font-weight: bold;
     color: blueviolet;
+    position: fixed;
+    width: 96%;
+    top: 0;
 }
 
 #token,
@@ -35,6 +40,11 @@ body {
     display: none;
 }
 
+#message_area {
+    display: block;
+    margin-bottom: 15%;
+}
+
 .message {
     border-top: 1px #8d939a solid;
     border-bottom: 1px #8d939a solid;
@@ -49,8 +59,8 @@ body {
 
 .icon {
     display: inline-block;
-    width: 4em;
-    height: 4em;
+    width: 3em;
+    height: 3em;
     border-radius: 100%;
     vertical-align: top;
 }
@@ -101,6 +111,7 @@ body {
     position: fixed;
     bottom: 0;
     width: 96%;
+    height: 8%;
 }
 
 #input_area {
