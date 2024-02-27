@@ -12,31 +12,37 @@
 
 <body>
     <div class="header">
-        <p>
-            token<input type="text" id="token">
-        </p>
-        <p>
-            type
-            <select id="type">
-                <option value="server">server</option>
-                <option value="private">private</option>
-            </select>
-        </p>
-        <div id="server_setting">
-            <p>
-                server<input type="text" id="server">
-            </p>
-            <p>
-                channel<input type="text" id="channel">
-            </p>
+        <div id="header_close">
+            <input type="button" id="header_close_button" value="表示">
         </div>
-        <div id="private_setting">
+        <div id="header_open">
+            <input type="button" id="header_open_button" value="非表示">
             <p>
-                user<select id="user">
-                    <option value="1">me</option>
-                    <option value="2">ev</option>
+                token<input type="text" id="token">
+            </p>
+            <p>
+                type
+                <select id="type">
+                    <option value="server">server</option>
+                    <option value="private">private</option>
                 </select>
             </p>
+            <div id="server_setting">
+                <p>
+                    server<select id="server"></select>
+                </p>
+                <p>
+                    channel<select id="channel"></select>
+                </p>
+            </div>
+            <div id="private_setting">
+                <p>
+                    user<select id="user">
+                        <option value="1">me</option>
+                        <option value="2">ev</option>
+                    </select>
+                </p>
+            </div>
         </div>
     </div>
     <div id="message_area">
@@ -57,6 +63,8 @@
     </div>
 
     <div id="footer">
+        <input type="file" id="file" value="ファイル選択">
+        <button id="file_up">file</button>
         <textarea id="input_area"></textarea>
         <input type="submit" id="message_send">
     </div>

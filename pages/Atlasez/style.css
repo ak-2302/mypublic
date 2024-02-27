@@ -1,0 +1,21 @@
+body {
+    font-family: Consolas, monospace, serif;
+    background-color: #313338;
+    padding: 2%;
+    color: white;
+}
+
+img {
+    width: 100%;
+}
+
+.h {
+    text-align: center;
+    font-size: large;
+    border-top: white 2px solid;
+    border-bottom: white 2px solid;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}

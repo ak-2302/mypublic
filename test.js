@@ -20,6 +20,26 @@ message_send.addEventListener("click", () => {
     input_area.value = ""
     add_newMessage()
 })
+
+const header_open_button = document.getElementById("header_open_button")
+const header_close_button = document.getElementById("header_close_button")
+const header_open = document.getElementById("header_open")
+const header_close = document.getElementById("header_close")
+header_open_button.addEventListener("click", () => {
+    header_open.style.display = "none"
+    header_close.style.display = "block"
+})
+header_close_button.addEventListener("click", () => {
+    header_open.style.display = "block"
+    header_close.style.display = "none"
+})
+
+const file = document.getElementById("file")
+const file_up = document.getElementById("file_up")
+file_up.addEventListener("click", () => {
+    file.click()
+})
+
 function add_newMessage() {
     var newContent = document.createElement("pre")
     newContent.className = "content"
