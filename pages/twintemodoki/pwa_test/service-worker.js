@@ -1,11 +1,38 @@
-self.addEventListener('fetch', function (e) {
-    console.log('service worker fetch')
-})
+var CACHE_NAME = 'pwa-sample-caches';
+var urlsToCache = [
+    // キャッシュ化したいコンテンツ
+];
 
-self.addEventListener('install', function (e) {
-    console.log('service worker install')
-})
+self.addEventListener('install', function (event) {
+    console.log('sw event: install called');
 
-self.addEventListener('activate', function (e) {
-    console.log('service worker activate')
-})
+    event.waitUntil(
+        caches.open(CACHE_NAME)
+            .then(function (cache) {
+                return cache.addAll(urlsToCache);
+            })
+    );
+});
+
+self.addEventListener('fetch', function (event) {
+    console.log('sw event: fetch called');
+
+    event.respondWith(
+        caches.match(event.request)
+            .then(function (response) {
+                return response ? response : fetch(event.request);
+            })
+    );
+});
+
+self.addEventListener('push', function (event) {
+    console.log('sw event: push called');
+
+    var notificationDataObj = event.data.json();
+    var content = {
+        body: notificationDataObj.body,
+    };
+    event.waitUntil(
+        self.registration.showNotification(notificationDataObj.title, content)
+    );
+});
