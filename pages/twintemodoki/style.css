@@ -1,0 +1,10 @@
+body {
+    background-color: bisque;
+    display: flex;
+}
+
+.lesson {
+    background-color: white;
+    display: flex;
+
+}

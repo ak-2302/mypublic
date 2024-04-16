@@ -1,0 +1,104 @@
+body {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+#header {
+    display: block;
+    position: fixed;
+    background-color: black;
+    height: 5%;
+}
+
+#main {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    background-color: blueviolet;
+}
+
+#footer {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    display: block;
+    position: fixed;
+    background-color: black;
+}
+
+#click {
+    box-sizing: border-box;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    display: inline-block;
+    width: 25vw;
+    height: 100%;
+    background-color: brown;
+}
+
+#click_button {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+#click_button>img {
+    width: 80%;
+    height: auto;
+    margin-top: 20%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#info {
+    box-sizing: border-box;
+    display: inline-block;
+    width: 35vw;
+    height: 100%;
+    background-color: teal;
+}
+
+#special_upgrade>img {
+    margin: 1% 0 0 1%;
+}
+
+#upgrade {
+    box-sizing: border-box;
+    display: inline-block;
+    width: 40vw;
+    height: 100%;
+    background-color: tomato;
+}
+
+.upgrade_button {
+    margin: 2% 2% 2% 2%;
+    width: 96%;
+}
+
+.upgrade_content {
+    background-color: wheat;
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+.upgrade_content>img {
+    display: inline-block;
+    padding: 1em 3% 0% 3%;
+    width: 25%;
+    height: auto;
+}
+
+.upgrade_content>.text {
+    margin-top: 1em;
+    display: inline-block;
+    text-align: left;
+}
+
+.progress {
+    display: block;
+    width: 0%;
+    height: 1em;
+    background-color: black;
+}
