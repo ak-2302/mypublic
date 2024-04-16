@@ -1,0 +1,8 @@
+{
+    "name": "PWA Test",
+    "short_name": "PWA",
+    "background_color": "#000000",
+    "start_url": "/pwa_test/",
+    "scope": "/pwa_test/",
+    "display": "standalone"
+}
