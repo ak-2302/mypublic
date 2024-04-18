@@ -4,38 +4,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-
-    <link rel="stylesheet" href="https://unpkg.com/ress/dist/ress.min.css" />
-    <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="./manifest.json">
+    <link rel="stylesheet" href="./styles.css">
     <script>
-        if (navigator.serviceWorker) {
-            navigator.serviceWorker.register('service_worker.js')
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('sw.js').then(async (registration) => {
+                console.log('ServiceWorker registration successful with scope: ', registration.scope);
+            }).catch((err) => {
+                console.log('ServiceWorker registration failed: ', err);
+            });
         }
+
     </script>
-    <link rel="manifest" href="manifest.json">
+    <title>PWA test</title>
 </head>
 
 <body>
-    <div class="lesson">
-        <img src="https://placehold.jp/200x200.png">
-    </div>
-    <div class="lesson">
-        <img src="https://placehold.jp/200x200.png">
-    </div>
-    <div class="lesson">
-        <img src="https://placehold.jp/200x200.png">
-    </div>
-    <div class="lesson">
-        <img src="https://placehold.jp/200x200.png">
-    </div>
-    <div class="lesson">
-        <img src="https://placehold.jp/200x200.png">
-    </div>
-    <div class="lesson">
-        <img src="https://placehold.jp/200x200.png">
-    </div>
-
+    <h1>PWA Test</h1>
 </body>
 
 </html>
