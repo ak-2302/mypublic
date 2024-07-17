@@ -1,0 +1,29 @@
+{
+    "system": {
+        "version": {},
+        "settig": {}
+    },
+    "data": {
+        "import_url": "",
+        "lesson_list": [],
+        "lesson": [
+            [
+                {
+                    "lesson_name": "",
+                    "room": "",
+                    "lesson_id": "",
+                    "manaba": "",
+                    "syllabus": ""
+                },
+                {
+                    "lesson_name": "Computer Science in English A",
+                    "room": "ondemand",
+                    "lesson_id": "GB13614",
+                    "manaba": "https://manaba.tsukuba.ac.jp/ct/course_3319539",
+                    "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/GB13614"
+                }
+            ]
+        ]
+    },
+    "info": {}
+}

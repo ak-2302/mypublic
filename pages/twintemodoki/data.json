@@ -1,0 +1,162 @@
+{
+    "INFOSS情報倫理学生用コース": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_351845",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "ビジネスシステムデザイン基礎II": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_3357672",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "データ構造とアルゴリズム実験": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_3319497",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "Computer Science in English A": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_3319539",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "数理アルゴリズムとシミュレーション": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_3319614",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "人工知能": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_3319617",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "プログラミングチャレンジ": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_3319626",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "インタラクティブCG": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_3319632",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "ソフトウェアサイエンス実験A": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_3319635",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "データベース概論A": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_3319647",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "プログラム言語処理": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_3319656",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "ソフトウェア工学": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_3319659",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "並列処理アーキテクチャI": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_3319662",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "並列処理アーキテクチャII": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_3319665",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "システムプログラム": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_3319671",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "データベース概論B": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_3319674",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "情報検索概論": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_3319677",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "情報システム実験B": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_3319692",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "情報セキュリティ": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_3319695",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "ヒューマンインタフェース": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_3319698",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "機械学習": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_3319704",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "情報理論": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_3319707",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "画像認識工学": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_3319716",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "情報可視化": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_3319896",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "学問への誘い（受講用）": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_2294548",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "データサイエンス効果測定 (月5,6限)": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_2382335",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "データサイエンス演習のためのアンケート": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_2382317",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "不正に巻き込まれないために（非常勤職員（短期雇用）向けコンプライアンス教育）": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_1860494",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "学生定期健康診断 こころの健康調査": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_2339117",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "全学共通ガイダンス": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_2380321",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "オリエンテーション（情報科学類）": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_2380360",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "2022年度入学生用体育連絡コース": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_2593181",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "学修状況等の実態調査": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_2616365",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "令和4年度学生生活実態調査（学群学生用）": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_2677162",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "学生宿舎整備計画に関するアンケート調査": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_2856897",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "主専攻実験希望調査2024": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_3271476",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "システム情報エリア支援室 学群教務（情報科学類）": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_2915880",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "英語力基準を満たす学生数調査（学群2年生及び4年生）1": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_3222324",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "2026年度入社 就職情報 (情報科学類・情報理工学位P・リスク(情報系))": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_3268251",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    },
+    "システム情報エリア支援室 学群教務 （情報科学類）": {
+        "manaba": "https://manaba.tsukuba.ac.jp/ct/course_3345301",
+        "syllabus": "https://kdb.tsukuba.ac.jp/syllabi/2024/"
+    }
+}

@@ -1,4 +1,4 @@
-var CACHE_NAME = 'pwa-sample-caches';
+var CACHE_NAME = 'cache';
 var urlsToCache = [
     // キャッシュ化したいコンテンツ
 ];

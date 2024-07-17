@@ -1,0 +1,58 @@
+body {
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+}
+
+#header {
+    display: none;
+    background-color: chocolate;
+    position: fixed;
+    top: 0;
+    width: 100vw;
+}
+
+#header_button {
+    display: block;
+    position: fixed;
+    right: 0;
+}
+
+#setting {
+    background-color: black;
+    visibility: 100%;
+    position: fixed;
+    width: 90vw;
+    height: 95vh;
+    margin: 5vw 2.5vh 5vw 2.5vh;
+}
+
+#setting_button {
+    position: fixed;
+    right: 0;
+    top: 3%;
+    transition: 1s;
+    transition-timing-function: ease-out;
+}
+
+#setting_button:hover {
+    rotate: 720deg;
+}
+
+#week {
+    display: flex;
+    height: 85vh;
+}
+
+.day {
+    height: 90%;
+}
+
+.lesson {
+    background-color: bisque;
+    margin-top: 2%;
+    height: 20%;
+}
+
+.link_img {
+    display: flex;
+}
